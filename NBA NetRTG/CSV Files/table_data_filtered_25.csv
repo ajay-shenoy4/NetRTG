@@ -1,0 +1,390 @@
+LINEUPS,TEAM,GP,MIN,OFFRTG,DEFRTG,NETRTG,AST%,AST/TO,AST RATIO,OREB%,DREB%,REB%,TO RATIO,EFG%,TS%,PACE,PIE
+K. Towns - O. Anunoby - J. Hart - M. Bridges - J. Brunson,NYK,41,797,118.4,112.8,5.6,66.6,2.37,21.1,27.4,73.0,50.9,0.1,57.2,60.4,99.22,53.8
+M. Conley - R. Gobert - J. Randle - A. Edwards - J. McDaniels,MIN,39,528,111.4,111.1,0.3,65.6,1.65,19.3,25.9,73.9,50.6,0.2,56.5,59.5,97.48,50.7
+F. VanVleet - D. Brooks - J. Green - A. Sengun - J. Smith Jr.,HOU,28,416,110.4,103.8,6.6,57.0,1.88,16.3,31.4,75.0,52.0,0.1,49.6,53.6,99.77,51.9
+D. DeRozan - D. Sabonis - D. Fox - M. Monk - K. Murray,SAC,27,414,115.0,113.4,1.6,64.0,2.49,20.0,26.4,74.7,49.9,0.1,54.4,58.3,103.45,51.2
+M. Turner - P. Siakam - A. Nembhard - T. Haliburton - B. Mathurin,IND,26,363,115.6,99.9,15.8,69.6,2.51,21.6,22.3,79.3,52.8,0.1,58.3,61.3,101.63,58.7
+B. Lopez - D. Lillard - G. Antetokounmpo - T. Prince - A. Jackson Jr.,MIL,29,300,109.3,112.3,-3.1,61.6,1.71,18.7,23.2,78.1,50.6,0.1,56.6,58.3,101.59,48.7
+C. Capela - T. Young - J. Johnson - D. Daniels - Z. Risacher,ATL,26,282,111.5,111.7,-0.2,71.2,2.13,21.7,31.0,74.2,52.2,0.1,55.5,57.2,106.35,50.2
+I. Hartenstein - S. Gilgeous-Alexander - L. Dort - J. Williams - C. Wallace,OKC,20,263,117.1,101.2,15.8,59.4,2.44,19.3,27.0,71.8,50.3,0.1,55.9,59.4,102.16,59.4
+T. Harris - T. Hardaway Jr. - C. Cunningham - J. Ivey - J. Duren,DET,21,261,119.8,122.0,-2.1,65.3,1.90,20.6,33.2,76.2,55.0,0.2,59.8,61.7,97.66,48.4
+J. Harden - N. Powell - K. Dunn - I. Zubac - D. Jones Jr.,LAC,19,257,112.5,102.4,10.1,59.4,1.72,18.5,26.6,72.0,50.2,0.1,55.8,58.5,100.38,54.8
+N. Vučević - Z. LaVine - C. White - P. Williams - J. Giddey,CHI,22,250,106.7,111.8,-5.1,67.5,1.90,19.8,23.5,77.7,51.1,0.1,55.2,57.9,107.56,48.3
+R. Westbrook - N. Jokić - J. Murray - M. Porter Jr. - C. Braun,DEN,19,246,126.3,119.9,6.5,73.9,3.16,24.5,30.1,71.3,51.9,0.1,61.3,64.0,103.44,53.3
+J. Holiday - K. Porziņģis - J. Brown - J. Tatum - D. White,BOS,16,245,114.9,113.7,1.2,66.8,2.49,20.1,22.9,71.7,47.6,0.1,54.9,57.9,103.12,51.7
+A. Gordon - N. Jokić - J. Murray - M. Porter Jr. - C. Braun,DEN,14,226,120.2,116.2,4.0,69.0,2.26,21.3,29.3,71.5,51.3,0.1,59.0,62.4,102.40,53.7
+C. McCollum - D. Murray - H. Jones - T. Murphy III - Y. Missi,NOP,13,221,112.6,120.1,-7.5,61.7,1.64,18.4,30.6,69.3,49.0,0.2,55.1,58.9,102.16,45.1
+A. Horford - J. Holiday - J. Brown - J. Tatum - D. White,BOS,19,216,120.3,100.9,19.4,69.4,2.63,21.1,20.2,73.7,48.9,0.1,61.2,63.5,102.19,58.6
+F. VanVleet - D. Brooks - J. Green - A. Sengun - A. Thompson,HOU,19,213,111.9,117.8,-5.8,58.8,1.89,17.3,27.2,63.7,44.1,0.1,52.0,55.8,98.78,45.4
+K. Kuzma - J. Poole - B. Coulibaly - A. Sarr - B. Carrington,WAS,17,208,86.7,120.3,-33.5,63.6,1.43,15.7,18.5,73.0,42.6,0.1,44.4,46.4,108.15,31.5
+L. James - A. Davis - R. Hachimura - A. Reaves - M. Christie,LAL,17,199,107.4,106.3,1.1,67.2,1.75,19.6,25.3,77.6,52.1,0.2,55.0,58.3,103.43,53.2
+D. Mitchell - J. Allen - D. Garland - D. Wade - E. Mobley,CLE,21,197,120.1,112.4,7.7,63.0,2.43,20.7,23.2,70.5,47.9,0.1,59.2,61.7,101.08,53.6
+J. Butler - B. Adebayo - D. Robinson - H. Highsmith - T. Herro,MIA,17,189,118.4,114.0,4.4,73.7,2.57,22.7,27.9,81.5,54.3,0.1,58.2,60.4,96.41,51.6
+L. Markkanen - J. Collins - C. Sexton - W. Kessler - K. George,UTA,13,189,123.1,116.5,6.6,62.4,1.50,19.1,41.6,79.7,61.4,0.2,61.2,64.2,100.32,52.9
+J. Grant - A. Simons - D. Ayton - D. Avdija - T. Camara,POR,15,188,98.7,115.8,-17.1,58.0,1.38,15.4,29.1,68.8,48.1,0.2,46.9,50.2,99.87,40.1
+D. DeRozan - D. Sabonis - D. Fox - K. Huerter - K. Murray,SAC,16,184,115.0,105.5,9.5,61.0,1.88,19.8,24.4,72.1,50.8,0.1,57.9,61.0,100.71,55.9
+T. Harris - T. Hardaway Jr. - C. Cunningham - J. Duren - A. Thompson,DET,17,178,111.5,112.0,-0.6,57.1,1.45,17.9,33.7,76.8,55.0,0.2,55.3,57.6,103.17,50.7
+C. Paul - H. Barnes - J. Champagnie - V. Wembanyama - S. Castle,SAS,20,176,125.8,112.3,13.6,71.3,2.60,21.6,24.9,74.4,50.4,0.1,60.2,63.9,98.69,56.2
+J. Harden - N. Powell - I. Zubac - D. Jones Jr. - T. Mann,LAC,13,169,110.6,120.5,-9.9,72.1,1.85,19.7,33.1,79.9,54.2,0.2,51.1,55.8,96.93,45.7
+J. Poeltl - R. Barrett - O. Agbaji - D. Mitchell - G. Dick,TOR,14,167,116.7,113.1,3.6,60.6,2.54,18.8,30.6,69.5,49.7,0.1,53.2,56.6,102.46,50.5
+R. Gobert - J. Randle - D. DiVincenzo - A. Edwards - J. McDaniels,MIN,24,165,109.9,114.2,-4.3,61.4,1.54,17.5,36.0,68.0,52.8,0.2,54.5,56.7,99.82,49.8
+C. Paul - H. Barnes - D. Vassell - V. Wembanyama - S. Castle,SAS,16,157,123.2,114.0,9.2,69.3,3.12,22.3,25.8,73.5,50.5,0.1,60.1,62.1,102.05,55.0
+N. Jokić - J. Murray - M. Porter Jr. - C. Braun - P. Watson,DEN,12,156,128.6,115.5,13.1,73.4,3.14,24.4,33.3,71.6,54.2,0.1,62.6,64.6,97.54,56.2
+B. Lopez - D. Lillard - G. Antetokounmpo - T. Prince - G. Trent Jr.,MIL,21,153,117.0,117.3,-0.3,60.7,2.34,19.0,13.8,73.2,45.0,0.1,60.2,63.6,104.31,49.0
+J. Harden - K. Dunn - I. Zubac - D. Jones Jr. - A. Coffey,LAC,15,152,108.7,103.9,4.8,63.6,1.49,18.9,30.5,78.2,54.9,0.2,54.5,57.6,96.91,53.0
+K. Caldwell-Pope - G. Bitadze - F. Wagner - J. Suggs - T. da Silva,ORL,13,152,108.2,110.0,-1.7,66.9,1.93,19.5,29.9,77.0,52.2,0.1,51.3,54.9,95.62,50.6
+D. Mitchell - J. Allen - D. Garland - I. Okoro - E. Mobley,CLE,15,148,125.6,114.2,11.4,61.9,2.17,20.5,25.5,72.7,50.2,0.1,63.1,65.2,102.56,54.4
+T. Harris - T. Hardaway Jr. - M. Beasley - C. Cunningham - J. Duren,DET,32,140,108.7,116.6,-7.9,55.4,1.40,16.4,23.5,76.5,50.4,0.2,56.4,60.8,105.78,46.7
+C. Paul - H. Barnes - D. Vassell - J. Sochan - V. Wembanyama,SAS,12,136,116.3,100.0,16.3,77.1,2.60,22.6,22.6,71.9,49.5,0.1,57.5,60.6,99.99,59.4
+J. Randle - D. DiVincenzo - N. Alexander-Walker - N. Reid - A. Edwards,MIN,34,135,125.6,107.3,18.3,60.0,2.89,19.7,26.0,66.2,47.3,0.1,63.3,65.8,102.17,57.3
+A. Simons - D. Ayton - D. Avdija - S. Sharpe - T. Camara,POR,10,134,113.3,111.4,2.0,55.0,1.57,17.7,24.4,69.7,49.2,0.2,59.4,61.9,99.05,51.0
+D. DeRozan - D. Sabonis - M. Monk - K. Murray - K. Ellis,SAC,22,126,123.8,101.2,22.7,63.6,3.21,20.7,28.2,74.2,52.0,0.1,57.0,60.8,98.31,61.4
+J. Grant - A. Simons - D. Ayton - S. Sharpe - T. Camara,POR,10,126,93.7,123.6,-29.9,58.8,1.16,15.9,24.6,77.7,48.4,0.2,47.4,50.6,102.00,35.8
+J. Poeltl - R. Barrett - D. Mitchell - S. Barnes - G. Dick,TOR,13,126,105.1,113.2,-8.0,69.3,1.80,20.5,27.9,75.2,51.4,0.2,55.1,57.1,102.92,48.8
+O. Anunoby - J. Hart - M. Bridges - J. Brunson - J. Sims,NYK,18,120,105.6,110.0,-4.4,63.2,1.82,17.9,33.9,75.9,53.4,0.1,50.5,52.9,92.33,48.5
+K. Durant - B. Beal - J. Nurkić - T. Jones - D. Booker,PHX,12,119,103.9,120.9,-17.1,73.6,2.19,23.1,10.4,70.9,42.2,0.1,57.6,59.1,103.83,44.0
+K. Irving - K. Thompson - P. Washington - L. Dončić - D. Lively II,DAL,14,119,127.9,104.4,23.5,58.2,2.45,19.5,36.1,69.4,53.1,0.1,60.4,62.2,100.88,59.6
+T. Rozier - B. Adebayo - H. Highsmith - T. Herro - J. Jaquez Jr.,MIA,14,118,96.0,116.0,-20.0,67.4,1.93,17.4,20.7,66.7,42.6,0.1,46.0,50.3,99.12,43.6
+J. Harden - K. Leonard - N. Powell - I. Zubac - D. Jones Jr.,LAC,9,116,133.3,94.8,38.5,61.7,2.93,22.6,30.8,80.5,57.7,0.1,63.1,65.7,103.37,68.5
+R. Gobert - J. Randle - N. Alexander-Walker - A. Edwards - J. McDaniels,MIN,29,115,110.2,96.7,13.5,44.4,1.25,12.9,30.3,70.2,49.8,0.1,52.7,56.4,99.42,51.9
+R. Westbrook - A. Gordon - N. Jokić - M. Porter Jr. - C. Braun,DEN,18,115,129.4,104.8,24.6,74.0,2.22,23.6,39.2,69.0,55.7,0.2,65.5,67.1,105.93,61.1
+B. Lopez - D. Lillard - B. Portis - G. Trent Jr. - A. Green,MIL,13,111,122.1,101.7,20.4,54.8,2.04,18.4,21.9,75.4,50.7,0.1,60.3,63.4,100.55,55.4
+J. Jackson Jr. - J. Morant - D. Bane - Z. Edey - J. Wells,MEM,12,111,134.1,96.8,37.3,54.2,2.17,18.5,35.2,75.6,56.7,0.1,60.4,65.2,108.30,68.6
+D. Schröder - D. Finney-Smith - N. Claxton - C. Johnson - C. Thomas,BKN,9,106,116.2,104.2,12.0,61.1,1.83,18.4,28.4,69.3,48.8,0.1,56.6,60.3,97.34,55.2
+M. Turner - P. Siakam - T. Haliburton - B. Mathurin - Q. Jackson,IND,9,106,113.8,119.2,-5.4,68.1,1.59,19.9,31.6,73.1,53.0,0.2,57.1,60.5,98.74,49.0
+J. Jackson Jr. - J. Morant - B. Clarke - D. Bane - J. Wells,MEM,16,105,120.1,111.6,8.5,63.9,1.59,19.4,32.3,70.3,53.6,0.2,59.6,64.1,105.19,54.1
+L. James - A. Davis - D. Russell - R. Hachimura - A. Reaves,LAL,10,105,109.6,104.0,5.6,82.4,2.34,22.2,29.5,73.9,52.4,0.1,51.8,55.7,104.69,55.7
+M. Turner - P. Siakam - T. Haliburton - B. Mathurin - B. Sheppard,IND,10,105,111.8,115.2,-3.4,69.3,2.77,20.3,24.3,69.3,46.7,0.1,53.0,55.4,96.26,48.6
+N. Vučević - Z. LaVine - C. White - P. Williams - A. Dosunmu,CHI,15,105,107.5,109.0,-1.5,76.7,2.23,20.8,20.0,74.2,49.2,0.1,54.0,58.7,110.68,51.2
+C. Capela - T. Young - D. Hunter - J. Johnson - D. Daniels,ATL,16,104,111.7,100.0,11.7,68.8,2.56,18.7,33.1,74.8,53.6,0.1,51.5,56.4,108.90,61.8
+N. Vučević - Z. LaVine - C. White - A. Dosunmu - J. Giddey,CHI,13,104,116.7,119.8,-3.2,72.8,2.50,22.9,18.8,76.9,49.5,0.1,63.2,64.3,107.23,48.5
+R. Westbrook - N. Jokić - M. Porter Jr. - C. Braun - P. Watson,DEN,24,104,118.3,112.1,6.1,80.2,2.36,25.4,25.6,68.1,51.3,0.2,65.3,67.6,106.17,56.5
+C. Paul - H. Barnes - J. Champagnie - J. Sochan - V. Wembanyama,SAS,13,100,102.9,108.3,-5.4,70.9,1.65,18.9,30.2,72.8,52.3,0.2,51.1,54.7,99.83,51.0
+O. Anunoby - J. Hart - M. Bridges - J. Brunson - P. Achiuwa,NYK,19,100,107.1,112.2,-5.1,61.7,1.47,17.3,31.2,71.9,51.1,0.2,54.7,58.9,102.26,48.7
+C. McCollum - D. Murray - J. Green - T. Murphy III - Y. Missi,NOP,11,97,111.0,112.1,-1.1,53.9,2.00,16.2,33.6,64.0,47.5,0.1,50.5,52.6,104.75,46.2
+D. Schröder - B. Simmons - D. Finney-Smith - C. Johnson - C. Thomas,BKN,9,95,109.3,112.7,-3.4,71.3,1.63,20.7,16.3,66.3,41.7,0.2,57.3,61.8,103.40,47.6
+J. Butler - T. Rozier - B. Adebayo - T. Herro - N. Jović,MIA,9,95,104.7,124.5,-19.7,65.7,1.92,17.5,26.7,68.5,46.3,0.1,49.1,53.0,96.93,41.5
+T. Young - D. Hunter - O. Okongwu - J. Johnson - D. Daniels,ATL,13,95,120.5,116.9,3.7,57.0,1.23,16.1,39.6,63.9,52.8,0.2,57.6,64.3,110.86,53.3
+M. Conley - R. Gobert - D. DiVincenzo - N. Alexander-Walker - N. Reid,MIN,21,94,117.2,89.2,28.0,78.2,2.35,21.9,29.2,71.6,52.5,0.1,59.1,61.7,99.03,67.5
+J. Valančiūnas - K. Kuzma - C. Kispert - B. Carrington - K. George,WAS,14,91,106.7,131.1,-24.3,67.1,1.40,18.5,27.9,69.7,49.1,0.2,57.1,60.4,100.74,38.4
+K. Irving - K. Thompson - P. Washington - L. Dončić - D. Gafford,DAL,13,89,110.6,119.4,-8.8,53.7,1.76,16.3,27.8,72.0,49.5,0.1,54.0,57.3,105.97,45.6
+R. Gobert - D. DiVincenzo - N. Alexander-Walker - N. Reid - A. Edwards,MIN,31,89,98.0,87.8,10.2,65.3,1.34,17.7,16.9,80.9,50.8,0.2,58.9,61.0,107.57,55.7
+J. Poole - J. Champagnie - B. Coulibaly - A. Sarr - B. Carrington,WAS,9,88,109.8,115.1,-5.3,63.8,1.59,19.0,23.5,70.0,47.0,0.2,57.6,58.3,105.01,43.7
+K. Durant - M. Plumlee - T. Jones - D. Booker - R. Dunn,PHX,13,87,115.3,87.5,27.8,74.1,2.86,22.4,27.5,67.6,49.5,0.1,53.8,56.5,100.81,68.1
+J. Harden - N. Powell - I. Zubac - D. Jones Jr. - A. Coffey,LAC,19,85,112.2,106.5,5.7,62.7,1.12,18.1,38.8,76.2,59.6,0.2,63.8,66.7,104.85,54.7
+K. Caldwell-Pope - W. Carter Jr. - G. Bitadze - J. Suggs - T. da Silva,ORL,6,83,103.0,105.6,-2.5,62.9,1.42,18.4,36.6,73.1,53.0,0.2,51.0,53.0,94.42,49.3
+T. Harris - T. Hardaway Jr. - I. Stewart - C. Cunningham - J. Ivey,DET,12,83,116.7,115.1,1.6,69.2,3.60,21.9,22.6,70.4,48.4,0.1,56.6,59.4,99.84,54.2
+C. LeVert - D. Mitchell - J. Allen - D. Garland - E. Mobley,CLE,21,82,121.9,101.1,20.8,60.3,1.38,18.4,40.0,65.9,53.5,0.2,61.8,65.7,102.76,58.5
+K. Caldwell-Pope - W. Carter Jr. - F. Wagner - J. Suggs - P. Banchero,ORL,6,82,100.6,109.6,-9.0,69.4,1.87,18.0,21.3,81.9,49.7,0.1,48.0,52.7,103.84,45.7
+R. Westbrook - A. Gordon - N. Jokić - J. Murray - M. Porter Jr.,DEN,13,82,130.6,112.5,18.1,63.4,3.11,21.8,42.7,78.3,61.4,0.1,61.6,64.1,104.36,60.3
+K. Irving - K. Thompson - S. Dinwiddie - P. Washington - D. Gafford,DAL,15,81,124.0,103.5,20.5,61.3,1.88,19.3,38.0,68.3,55.0,0.1,59.6,62.3,103.47,61.3
+C. LeVert - G. Niang - D. Mitchell - S. Merrill - E. Mobley,CLE,16,80,119.5,81.8,37.8,66.7,2.19,20.0,20.3,70.8,48.0,0.1,62.1,63.9,102.06,68.4
+D. DeRozan - D. Sabonis - D. Fox - K. Murray - K. Ellis,SAC,16,80,130.2,109.8,20.4,59.5,2.94,20.1,37.7,73.0,55.0,0.1,60.2,62.3,97.01,56.2
+J. Valančiūnas - J. Poole - C. Kispert - B. Coulibaly - K. George,WAS,20,79,115.9,119.2,-3.3,58.3,2.33,17.4,29.1,72.8,51.3,0.1,54.0,59.6,105.31,50.4
+N. Vučević - Z. LaVine - L. Ball - P. Williams - J. Giddey,CHI,13,79,115.5,102.4,13.1,64.1,2.38,21.6,18.9,65.3,45.0,0.1,61.3,62.1,103.33,57.6
+J. Poole - B. Coulibaly - A. Sarr - B. Carrington - K. George,WAS,11,77,98.2,106.4,-8.2,55.7,2.00,15.2,23.4,64.0,42.8,0.1,46.1,50.2,105.23,43.1
+M. Bridges - L. Ball - J. Green - M. Williams - B. Miller,CHA,6,77,117.8,111.7,6.1,75.3,4.58,22.8,25.0,80.5,50.3,0.1,55.0,55.8,101.80,52.4
+M. Turner - P. Siakam - A. Nembhard - T. Haliburton - A. Nesmith,IND,6,77,108.3,111.4,-3.1,67.2,2.15,20.5,15.3,64.0,41.8,0.1,54.9,57.5,97.77,51.1
+M. Beasley - I. Stewart - J. Ivey - S. Fontecchio - R. Holland II,DET,20,76,107.3,115.2,-8.0,68.8,1.52,18.2,40.7,79.7,59.4,0.2,53.5,56.9,104.36,47.4
+S. Curry - D. Green - A. Wiggins - L. Waters III - T. Jackson-Davis,GSW,8,76,124.1,117.4,6.7,74.7,2.43,23.4,27.6,76.8,53.2,0.1,62.8,64.4,102.30,52.8
+K. Caldwell-Pope - W. Carter Jr. - G. Bitadze - F. Wagner - J. Suggs,ORL,5,75,129.3,97.3,31.9,65.7,1.70,21.8,34.0,80.3,59.7,0.2,65.6,69.1,94.72,68.8
+B. Lopez - D. Lillard - G. Antetokounmpo - T. Prince - A. Green,MIL,17,74,115.6,89.4,26.3,50.0,1.70,16.3,21.1,79.3,54.0,0.1,59.2,61.2,103.67,64.3
+F. VanVleet - J. Green - A. Sengun - J. Smith Jr. - A. Thompson,HOU,13,74,121.4,125.8,-4.4,45.3,2.13,15.0,47.0,76.4,60.6,0.1,54.5,56.0,98.67,48.6
+K. Durant - J. Nurkić - T. Jones - D. Booker - R. O'Neale,PHX,11,74,122.3,91.8,30.5,65.3,2.61,22.1,14.5,81.0,52.7,0.1,65.9,68.0,102.03,63.3
+S. Curry - D. Green - D. Schröder - A. Wiggins - T. Jackson-Davis,GSW,8,74,97.4,105.7,-8.2,75.4,1.92,20.6,25.6,79.2,51.6,0.2,50.4,51.8,102.76,47.3
+B. Bogdanović - T. Young - D. Hunter - O. Okongwu - D. Daniels,ATL,17,73,113.8,117.3,-3.5,66.7,2.10,18.2,43.7,77.3,58.2,0.1,51.0,55.4,106.01,45.5
+J. Poeltl - R. Barrett - I. Quickley - S. Barnes - G. Dick,TOR,5,73,101.3,113.9,-12.7,68.2,2.50,20.1,24.4,80.0,50.0,0.1,52.5,52.5,103.84,44.2
+J. Valančiūnas - M. Brogdon - C. Kispert - C. Carrington - K. George,WAS,9,73,107.8,116.6,-8.8,73.8,1.80,20.5,30.4,77.8,54.6,0.2,54.7,58.5,100.29,47.3
+A. Horford - J. Tatum - L. Kornet - P. Pritchard - S. Hauser,BOS,15,72,102.0,97.8,4.2,64.2,1.89,16.2,34.5,65.4,49.4,0.1,48.2,50.7,95.36,49.3
+C. LeVert - G. Niang - D. Mitchell - M. Strus - E. Mobley,CLE,10,72,98.2,116.7,-18.5,63.6,1.59,16.3,20.5,70.9,45.1,0.1,50.4,54.3,106.58,41.1
+M. Turner - A. Nembhard - O. Toppin - T. Haliburton - B. Mathurin,IND,19,72,107.5,102.5,5.0,65.0,2.05,18.1,24.3,66.7,47.2,0.1,54.3,58.4,105.80,54.1
+P. George - K. Oubre Jr. - G. Yabusele - C. Martin - T. Maxey,PHI,7,72,128.7,103.9,24.7,46.5,2.36,15.7,31.8,71.2,50.0,0.1,57.5,59.3,100.50,56.0
+M. Beasley - I. Stewart - C. Cunningham - S. Fontecchio - R. Holland II,DET,21,71,97.4,98.7,-1.3,64.2,1.79,16.0,26.4,77.9,50.0,0.1,46.5,49.3,103.31,45.2
+E. Gordon - K. Oubre Jr. - G. Yabusele - T. Maxey - J. Edwards,PHI,6,70,109.4,122.0,-12.6,59.4,1.90,18.9,20.3,64.0,37.9,0.1,55.6,57.1,101.92,40.0
+G. Niang - D. Mitchell - T. Jerome - S. Merrill - E. Mobley,CLE,13,70,93.6,113.2,-19.6,61.1,3.00,15.6,24.7,76.1,46.3,0.1,43.8,47.0,105.14,39.0
+D. DeRozan - D. Sabonis - D. Fox - M. Monk - K. Ellis,SAC,12,69,130.4,113.1,17.3,54.2,2.44,19.5,21.3,66.7,45.9,0.1,62.3,65.8,104.09,56.3
+K. Caldwell-Pope - G. Bitadze - C. Anthony - C. Houstan - T. da Silva,ORL,6,69,99.2,100.0,-0.8,61.5,2.46,17.7,28.9,64.4,46.3,0.1,45.7,47.5,87.54,51.8
+L. James - A. Davis - R. Hachimura - C. Reddish - A. Reaves,LAL,8,68,107.6,120.8,-13.2,76.7,2.30,22.4,22.2,64.5,45.3,0.1,57.8,59.8,101.78,48.4
+B. Lopez - D. Lillard - B. Portis - T. Prince - G. Trent Jr.,MIL,15,67,110.6,114.1,-3.5,48.3,1.22,15.1,23.8,68.5,47.8,0.2,54.6,58.9,101.25,48.8
+J. Jackson Jr. - B. Clarke - D. Bane - S. Pippen Jr. - J. Wells,MEM,10,67,105.4,115.2,-9.7,67.2,1.78,19.8,26.4,68.0,47.6,0.2,54.3,55.8,104.55,46.5
+O. Anunoby - M. Bridges - J. Brunson - M. McBride - J. Sims,NYK,16,67,118.2,94.5,23.7,53.4,1.63,16.0,29.4,69.2,50.7,0.1,57.6,61.3,102.57,59.2
+J. Randle - D. DiVincenzo - N. Alexander-Walker - N. Reid - J. Minott,MIN,14,66,119.2,102.7,16.5,78.7,2.00,23.0,27.1,71.3,52.5,0.2,64.7,67.6,106.10,60.6
+J. Randle - D. DiVincenzo - N. Reid - A. Edwards - J. McDaniels,MIN,21,65,103.7,103.5,0.2,54.9,2.15,15.8,21.5,69.6,46.3,0.1,50.9,55.1,102.42,49.5
+J. Randle - N. Alexander-Walker - N. Reid - A. Edwards - J. McDaniels,MIN,25,65,102.2,110.2,-8.0,59.6,1.40,15.0,33.8,71.4,52.5,0.1,47.8,53.6,101.18,43.8
+K. Towns - C. Payne - J. Hart - M. Bridges - M. McBride,NYK,12,65,127.8,98.6,29.1,67.7,2.44,21.4,30.0,71.6,52.0,0.1,63.4,67.3,106.64,60.7
+J. Holiday - J. Brown - J. Tatum - D. White - L. Kornet,BOS,9,64,102.8,92.1,10.8,61.8,1.42,17.0,32.9,68.1,49.7,0.2,50.0,52.4,104.25,56.4
+S. Gilgeous-Alexander - L. Dort - C. Holmgren - J. Williams - C. Wallace,OKC,6,64,108.4,98.6,9.8,42.9,1.80,15.1,13.8,69.1,44.5,0.1,55.5,57.6,107.63,53.9
+J. Poeltl - R. Barrett - O. Agbaji - S. Barnes - J. Walter,TOR,4,63,122.8,100.7,22.1,72.7,2.18,23.5,33.9,76.6,58.1,0.2,62.9,64.4,103.98,61.4
+E. Gordon - P. George - K. Oubre Jr. - G. Yabusele - T. Maxey,PHI,6,62,116.5,119.0,-2.5,54.0,1.08,16.5,20.4,69.4,47.7,0.2,62.1,67.3,97.59,47.2
+K. Johnson - T. Jones - J. Champagnie - V. Wembanyama - S. Castle,SAS,13,62,109.4,95.7,13.6,79.2,2.80,21.8,21.5,61.6,44.4,0.1,53.5,57.9,108.78,62.9
+R. Gobert - D. DiVincenzo - N. Reid - A. Edwards - J. McDaniels,MIN,24,62,106.0,102.9,3.0,54.0,0.96,14.5,37.3,67.2,51.9,0.2,54.4,57.7,104.00,48.2
+T. Harris - M. Beasley - C. Cunningham - J. Ivey - J. Duren,DET,15,62,111.0,95.7,15.4,63.0,1.48,18.1,30.5,78.6,56.6,0.2,58.3,61.3,106.37,60.0
+B. Bogdanović - D. Hunter - O. Okongwu - J. Johnson - K. Bufkin,ATL,7,61,100.7,105.7,-5.0,67.9,1.57,18.4,31.8,66.7,49.2,0.2,50.4,54.9,110.20,51.6
+B. Simmons - N. Claxton - C. Johnson - K. Johnson - N. Clowney,BKN,5,61,107.2,124.6,-17.4,64.6,1.41,17.6,30.8,64.7,45.7,0.2,52.3,56.2,97.09,42.5
+M. Beasley - I. Stewart - M. Sasser - S. Fontecchio - R. Holland II,DET,17,61,103.8,122.6,-18.8,69.4,1.42,18.5,31.0,63.5,47.9,0.2,57.5,59.9,105.01,41.1
+T. Harris - T. Hardaway Jr. - M. Beasley - I. Stewart - C. Cunningham,DET,23,61,100.0,91.7,8.3,52.9,1.08,15.1,16.1,79.1,50.4,0.2,57.6,61.4,108.86,53.6
+C. LeVert - G. Niang - J. Allen - D. Garland - S. Merrill,CLE,20,60,123.2,121.3,1.9,66.1,3.15,21.7,18.9,70.7,45.9,0.1,64.0,66.6,109.30,53.0
+K. Towns - O. Anunoby - J. Hart - J. Brunson - M. McBride,NYK,17,60,129.8,100.8,29.0,66.1,3.25,22.4,22.0,78.2,51.4,0.1,62.1,66.2,96.07,65.9
+M. Bridges - G. Williams - L. Ball - J. Green - B. Miller,CHA,6,60,127.6,133.6,-6.0,80.0,2.44,24.4,18.0,77.3,45.7,0.1,68.6,71.5,101.05,46.9
+M. Bridges - L. Ball - J. Green - M. Williams - N. Smith Jr.,CHA,6,60,107.6,119.1,-11.5,62.0,1.82,16.9,30.4,75.8,51.9,0.1,52.2,55.2,105.49,44.7
+O. Anunoby - M. Bridges - J. Brunson - P. Achiuwa - M. McBride,NYK,15,59,115.7,104.8,10.9,51.0,1.92,14.7,29.7,67.2,48.0,0.1,52.3,58.0,101.78,56.1
+D. Ayton - D. Avdija - S. Henderson - S. Sharpe - T. Camara,POR,10,58,116.1,117.4,-1.2,56.4,1.48,18.2,29.4,71.2,50.5,0.2,60.1,63.6,102.03,51.7
+I. Hartenstein - S. Gilgeous-Alexander - L. Dort - I. Joe - J. Williams,OKC,12,58,117.1,96.2,20.9,48.3,2.33,16.3,23.8,77.1,51.9,0.1,54.2,57.7,106.45,60.3
+K. Love - T. Rozier - B. Adebayo - H. Highsmith - T. Herro,MIA,5,58,97.5,100.8,-3.3,57.8,1.44,15.9,26.2,76.6,51.2,0.1,46.8,49.8,100.41,48.6
+S. Gilgeous-Alexander - L. Dort - I. Joe - J. Williams - C. Wallace,OKC,13,58,118.9,85.4,33.5,48.1,2.36,15.7,22.6,73.6,50.0,0.1,55.3,59.4,106.68,67.3
+F. VanVleet - D. Brooks - A. Sengun - J. Smith Jr. - A. Thompson,HOU,13,57,116.9,86.4,30.5,76.5,3.25,22.4,20.8,71.4,48.3,0.1,60.4,63.5,105.24,70.0
+J. Harden - N. Powell - K. Dunn - I. Zubac - A. Coffey,LAC,14,57,135.8,94.3,41.6,59.3,1.94,20.8,28.3,68.9,51.4,0.1,68.9,71.5,101.08,66.1
+K. Middleton - G. Antetokounmpo - B. Portis - G. Trent Jr. - A. Green,MIL,9,57,128.5,102.5,26.0,63.2,3.60,20.7,31.5,76.2,55.6,0.1,61.0,65.4,101.88,63.1
+S. Curry - V. Micić - M. Bridges - J. Green - M. Williams,CHA,8,57,107.4,108.4,-1.0,69.4,2.13,20.2,20.6,71.9,46.5,0.1,51.8,54.9,101.82,49.4
+C. Kispert - B. Coulibaly - A. Sarr - C. Carrington - K. George,WAS,16,56,109.6,128.2,-18.6,71.4,2.06,20.8,17.3,61.9,41.7,0.1,60.0,63.0,110.57,39.6
+J. Poeltl - R. Barrett - O. Agbaji - S. Barnes - G. Dick,TOR,6,56,100.0,119.5,-19.5,69.4,1.42,20.4,23.1,81.4,54.1,0.2,56.6,58.0,105.31,41.3
+R. Westbrook - N. Jokić - M. Porter Jr. - J. Strawther - C. Braun,DEN,15,56,137.6,92.7,44.9,77.8,5.44,24.9,41.1,71.0,56.8,0.1,60.2,63.4,107.21,71.3
+J. Poeltl - R. Barrett - O. Agbaji - D. Mitchell - S. Barnes,TOR,10,55,110.0,84.2,25.8,72.0,2.12,21.4,25.0,79.7,56.3,0.1,58.9,61.8,102.36,69.3
+M. Conley - J. Randle - N. Reid - A. Edwards - J. McDaniels,MIN,21,55,105.7,105.7,0.0,68.9,1.94,18.9,18.2,73.6,45.4,0.1,54.1,59.2,107.18,52.2
+M. Conley - R. Gobert - N. Reid - A. Edwards - J. McDaniels,MIN,20,55,113.2,87.4,25.8,76.7,2.20,20.4,27.8,75.5,51.4,0.1,55.4,60.5,98.38,66.8
+N. Vučević - Z. LaVine - A. Dosunmu - J. Giddey - J. Phillips,CHI,16,55,118.9,109.8,9.1,66.0,1.46,21.1,23.1,73.8,54.8,0.2,71.3,72.2,106.67,55.3
+B. Beal - M. Plumlee - T. Jones - D. Booker - R. O'Neale,PHX,5,54,110.7,136.4,-25.7,71.4,2.14,19.7,19.2,68.0,43.1,0.1,56.5,60.2,98.06,42.4
+K. Irving - K. Thompson - L. Dončić - D. Gafford - N. Marshall,DAL,6,54,116.9,113.6,3.4,57.7,2.14,19.2,16.7,74.2,49.1,0.1,62.5,65.0,104.74,50.3
+N. Batum - K. Dunn - I. Zubac - A. Coffey - K. Porter Jr.,LAC,10,54,106.3,95.6,10.7,64.7,1.57,20.4,34.0,81.5,57.9,0.2,56.9,57.2,100.36,56.5
+P. George - J. Embiid - K. Oubre Jr. - C. Martin - T. Maxey,PHI,4,54,101.7,107.7,-6.0,65.8,1.56,16.3,20.4,61.8,41.3,0.1,47.8,56.1,104.23,53.5
+B. Adebayo - D. Robinson - H. Highsmith - T. Herro - J. Jaquez Jr.,MIA,7,53,98.0,118.0,-20.0,68.6,1.41,16.9,29.6,72.2,50.9,0.2,47.8,52.3,91.53,41.7
+J. Valančiūnas - C. Kispert - B. Coulibaly - C. Carrington - K. George,WAS,19,53,109.7,128.6,-18.8,65.9,1.32,19.0,25.6,61.7,44.4,0.2,60.7,64.7,101.76,42.7
+A. Horford - J. Holiday - K. Porziņģis - J. Brown - D. White,BOS,8,52,96.4,109.3,-12.8,59.5,1.79,17.1,16.4,80.0,46.7,0.1,51.1,53.8,102.25,43.6
+J. Poeltl - O. Agbaji - D. Mitchell - S. Barnes - G. Dick,TOR,7,52,105.7,109.0,-3.3,61.9,1.24,17.2,35.2,69.6,52.7,0.2,52.1,55.2,99.62,46.0
+L. Markkanen - J. Collins - C. Sexton - K. George - K. Filipowski,UTA,5,52,117.3,127.3,-10.0,65.2,1.88,19.9,23.9,76.9,48.2,0.1,60.4,63.5,101.77,44.8
+T. Harris - T. Hardaway Jr. - M. Beasley - J. Ivey - J. Duren,DET,7,52,103.8,124.5,-20.7,64.1,1.25,17.1,30.0,62.7,46.5,0.2,51.7,55.9,96.06,43.8
+T. Lyles - D. Sabonis - M. Monk - K. Huerter - K. Ellis,SAC,12,52,116.7,120.5,-3.9,82.2,2.64,22.4,33.9,70.2,50.0,0.1,52.9,56.3,101.93,46.9
+N. Vučević - Z. LaVine - P. Williams - A. Dosunmu - J. Giddey,CHI,16,51,102.5,110.1,-7.6,64.4,1.71,18.4,18.2,67.3,42.7,0.1,55.8,58.5,112.95,46.8
+C. McCollum - D. Murray - Z. Williamson - T. Murphy III - Y. Missi,NOP,4,50,129.4,113.6,15.7,66.7,3.56,20.9,26.1,61.4,45.6,0.1,59.8,66.2,106.14,58.5
+A. Simons - D. Ayton - D. Avdija - S. Henderson - T. Camara,POR,14,49,116.2,97.1,19.1,57.1,1.50,15.9,40.7,70.7,53.7,0.2,52.2,56.9,101.21,57.3
+R. Gobert - N. Alexander-Walker - N. Reid - A. Edwards - J. McDaniels,MIN,19,49,104.8,113.0,-8.2,60.5,1.44,16.3,28.0,71.8,47.2,0.2,55.3,57.8,104.59,41.7
+D. Brooks - J. Green - A. Sengun - J. Smith Jr. - A. Thompson,HOU,8,48,103.9,94.1,9.8,33.3,0.81,9.6,38.9,90.2,63.8,0.2,46.2,51.6,102.76,52.9
+D. DeRozan - D. Sabonis - M. Monk - K. Huerter - K. Ellis,SAC,11,48,122.2,102.9,19.3,65.1,2.00,18.8,28.9,68.2,48.3,0.1,56.3,63.0,104.96,59.1
+D. Mitchell - J. Allen - M. Strus - D. Garland - E. Mobley,CLE,5,48,125.7,106.8,18.9,57.4,2.07,20.5,36.6,81.3,60.7,0.1,65.9,67.0,104.44,57.5
+J. Poole - C. Kispert - B. Coulibaly - A. Sarr - K. George,WAS,14,48,112.9,101.8,11.1,65.2,1.36,19.4,20.9,69.6,48.5,0.2,62.1,65.9,113.72,56.6
+J. Tatum - D. White - L. Kornet - P. Pritchard - S. Hauser,BOS,11,48,116.2,84.9,31.3,61.4,2.45,18.5,27.8,75.0,51.8,0.1,56.6,58.3,106.02,62.3
+K. Towns - C. Payne - O. Anunoby - M. Bridges - M. McBride,NYK,14,48,136.8,99.1,37.7,60.7,3.78,21.5,34.6,77.4,56.2,0.1,63.2,63.9,106.69,62.9
+L. James - A. Davis - D. Finney-Smith - A. Reaves - M. Christie,LAL,9,48,125.5,91.5,34.0,55.3,1.44,19.7,12.5,77.2,53.9,0.2,70.5,73.4,104.40,65.9
+R. Westbrook - D. Jordan - J. Murray - M. Porter Jr. - C. Braun,DEN,7,48,104.9,103.9,1.0,57.1,1.14,17.4,25.0,69.1,48.5,0.2,56.3,57.7,101.56,51.7
+T. Rozier - B. Adebayo - H. Highsmith - T. Herro - N. Jović,MIA,11,48,99.0,97.0,2.0,60.0,1.29,12.9,31.0,67.2,50.0,0.1,45.2,51.2,101.64,55.9
+T. Rozier - T. Herro - N. Jović - J. Jaquez Jr. - K. Ware,MIA,6,48,111.9,135.9,-24.0,75.0,3.67,23.2,16.3,64.7,41.0,0.1,54.3,57.5,101.88,42.9
+K. Lowry - A. Drummond - K. Oubre Jr. - C. Martin - T. Maxey,PHI,7,47,90.5,106.1,-15.6,69.0,1.05,15.5,26.9,63.3,44.6,0.2,44.8,48.6,97.76,33.8
+N. Vučević - C. White - P. Williams - A. Dosunmu - J. Giddey,CHI,4,47,117.3,148.0,-30.7,83.0,4.33,25.8,16.7,66.7,37.0,0.1,60.2,61.5,104.38,40.2
+A. Horford - J. Holiday - J. Tatum - D. White - N. Queta,BOS,5,46,131.5,104.3,27.2,57.8,3.25,20.2,26.8,69.2,50.5,0.1,63.4,66.0,96.83,64.3
+J. Landale - J. Green - T. Eason - A. Thompson - R. Sheppard,HOU,10,46,107.1,100.9,6.1,65.8,2.08,17.6,35.7,62.9,50.0,0.1,46.7,51.5,107.14,51.6
+J. Poeltl - I. Quickley - O. Agbaji - S. Barnes - G. Dick,TOR,4,46,120.0,109.1,10.9,63.0,2.42,20.7,27.5,77.1,54.5,0.1,59.4,63.7,104.30,56.4
+L. James - A. Davis - C. Reddish - A. Reaves - D. Knecht,LAL,6,46,112.5,123.0,-10.5,63.4,1.53,20.6,11.4,80.6,46.5,0.2,61.3,65.8,102.60,43.1
+B. Lopez - D. Lillard - K. Middleton - G. Antetokounmpo - A. Jackson Jr.,MIL,10,45,105.1,109.5,-4.4,65.1,5.60,20.0,26.4,85.4,52.1,0.1,48.9,51.3,104.05,50.0
+G. Harris - J. Isaac - M. Wagner - J. Suggs - A. Black,ORL,10,45,81.3,83.5,-2.3,56.0,0.74,11.4,28.0,73.0,47.1,0.2,39.0,46.4,103.90,40.7
+J. Grant - S. Henderson - S. Sharpe - T. Camara - D. Clingan,POR,7,45,98.9,114.9,-16.0,66.7,1.16,17.9,19.0,64.4,42.5,0.2,54.7,57.1,99.73,40.9
+K. Durant - B. Beal - J. Nurkić - T. Jones - R. O'Neale,PHX,7,45,109.8,130.8,-21.0,57.9,1.38,18.2,19.4,70.7,46.8,0.2,61.0,63.8,97.00,41.7
+S. Gilgeous-Alexander - L. Dort - I. Joe - C. Holmgren - J. Williams,OKC,5,45,122.7,117.7,5.0,81.8,3.00,24.5,29.2,75.0,48.8,0.1,56.6,60.4,102.21,47.6
+B. Ingram - J. Green - B. Boston Jr. - T. Murphy III - Y. Missi,NOP,4,44,85.7,110.8,-25.0,66.7,0.82,14.6,29.8,67.3,49.0,0.2,41.9,47.9,100.72,36.0
+J. Grant - D. Ayton - D. Avdija - S. Henderson - T. Camara,POR,10,44,97.9,103.2,-5.4,56.4,1.83,16.3,35.8,70.7,51.1,0.1,47.3,48.7,102.27,46.7
+J. Tatum - D. White - N. Queta - P. Pritchard - S. Hauser,BOS,11,44,128.6,95.6,33.0,61.5,3.43,19.5,22.5,68.0,47.8,0.1,59.5,65.0,98.21,67.4
+K. Thompson - S. Dinwiddie - P. Washington - N. Marshall - D. Lively II,DAL,5,44,102.1,102.2,-0.1,64.1,2.08,19.7,18.2,72.7,48.5,0.1,52.4,54.6,101.83,54.3
+N. Claxton - Z. Williams - K. Johnson - T. Martin - N. Clowney,BKN,6,44,79.8,124.5,-44.7,72.4,1.11,16.5,22.2,79.4,44.3,0.2,42.2,44.0,103.51,25.7
+S. Gilgeous-Alexander - L. Dort - A. Wiggins - J. Williams - C. Wallace,OKC,14,44,122.8,117.5,5.3,58.5,4.00,18.2,32.7,65.6,45.7,0.1,54.5,58.0,102.24,44.3
+T. McConnell - P. Siakam - O. Toppin - J. Walker - J. Furphy,IND,8,44,103.0,111.0,-8.0,65.0,2.00,18.7,28.6,58.7,43.2,0.1,51.7,55.2,108.23,45.1
+D. Schröder - N. Claxton - Z. Williams - J. Wilson - N. Clowney,BKN,6,43,101.1,98.8,2.3,64.7,1.57,17.5,33.3,61.9,46.2,0.2,48.7,50.2,96.93,48.6
+J. Harden - K. Leonard - N. Powell - K. Dunn - I. Zubac,LAC,3,43,95.7,117.0,-21.3,74.3,1.63,20.3,18.2,77.1,48.9,0.2,50.6,53.5,103.90,42.9
+J. Valančiūnas - J. Poole - J. Champagnie - B. Coulibaly - B. Carrington,WAS,4,43,102.1,126.5,-24.5,72.2,1.44,18.4,33.3,76.9,51.6,0.2,46.6,51.1,109.16,36.2
+L. James - A. Davis - A. Reaves - M. Christie - D. Knecht,LAL,13,43,103.5,125.0,-21.5,58.1,1.50,15.4,33.3,74.4,53.1,0.1,47.2,53.1,93.99,43.8
+L. James - R. Hachimura - J. Hayes - A. Reaves - M. Christie,LAL,4,43,127.9,118.7,9.2,70.0,2.80,22.2,29.3,72.7,51.8,0.1,59.3,62.8,99.33,52.6
+N. Batum - J. Harden - M. Bamba - A. Coffey - K. Porter Jr.,LAC,13,43,92.8,120.0,-27.2,54.5,1.00,13.5,36.5,78.3,56.1,0.2,45.7,50.0,107.28,34.0
+R. Westbrook - N. Jokić - J. Strawther - C. Braun - P. Watson,DEN,21,43,99.0,94.1,5.0,78.8,1.73,18.6,29.3,78.7,55.7,0.1,52.2,59.2,112.75,58.9
+S. Gilgeous-Alexander - L. Dort - I. Joe - A. Wiggins - J. Williams,OKC,8,43,127.7,129.2,-1.5,61.4,2.45,20.6,24.4,52.3,38.8,0.1,64.5,66.6,106.10,49.2
+V. Micić - J. Green - M. Diabate - B. Miller - T. Salaün,CHA,6,43,90.2,107.1,-16.9,74.1,1.67,17.1,28.8,69.2,42.3,0.1,44.2,45.6,92.01,33.7
+A. Davis - R. Hachimura - G. Vincent - A. Reaves - M. Christie,LAL,10,42,102.3,118.9,-16.6,57.1,1.54,17.2,21.4,82.4,48.7,0.1,53.3,56.0,101.99,37.1
+B. Adebayo - D. Robinson - H. Highsmith - T. Herro - K. Ware,MIA,4,42,108.1,111.5,-3.4,75.0,1.50,20.3,21.1,81.4,53.1,0.2,57.2,61.2,98.29,48.4
+C. Paul - H. Barnes - Z. Collins - J. Champagnie - S. Castle,SAS,8,42,106.7,105.5,1.2,90.9,2.00,22.4,32.6,76.1,54.3,0.2,49.4,54.1,103.18,51.2
+D. Jordan - J. Murray - M. Porter Jr. - J. Strawther - P. Watson,DEN,9,42,117.2,110.7,6.5,51.4,1.46,15.3,42.9,64.7,54.8,0.1,53.2,57.3,97.35,54.7
+J. Butler - T. Rozier - B. Adebayo - H. Highsmith - T. Herro,MIA,8,42,121.6,105.7,15.8,63.9,2.30,17.8,39.1,77.8,56.1,0.1,53.7,59.2,98.83,55.0
+K. Caldwell-Pope - G. Bitadze - F. Wagner - A. Black - T. da Silva,ORL,11,42,113.3,84.1,29.1,66.7,4.40,19.6,16.7,59.6,39.3,0.1,52.0,56.4,95.09,68.6
+M. Turner - P. Siakam - T. Haliburton - B. Mathurin - J. Walker,IND,14,42,98.9,110.0,-11.1,71.4,1.54,16.5,24.4,70.3,45.1,0.1,47.9,54.6,104.08,40.3
+A. Davis - D. Russell - R. Hachimura - A. Reaves - M. Christie,LAL,11,41,106.1,105.6,0.5,54.8,1.31,15.6,27.0,71.7,51.8,0.2,51.5,57.6,99.98,48.8
+J. Brown - D. White - N. Queta - P. Pritchard - S. Hauser,BOS,10,41,139.7,145.5,-5.7,73.2,2.50,24.6,45.2,48.6,47.1,0.2,70.0,72.0,91.28,49.9
+L. Markkanen - C. Sexton - J. Juzang - W. Kessler - K. George,UTA,6,41,114.0,115.9,-2.0,59.5,1.69,18.2,28.3,78.6,52.3,0.2,54.8,56.9,102.81,43.0
+D. Schröder - N. Claxton - C. Johnson - Z. Williams - C. Thomas,BKN,6,40,111.5,119.3,-7.7,51.7,1.25,14.7,25.7,69.2,48.6,0.2,52.3,59.4,97.30,42.7
+F. VanVleet - D. Brooks - A. Sengun - T. Eason - A. Thompson,HOU,14,40,125.0,72.1,52.9,60.0,2.63,17.5,38.5,67.5,53.2,0.1,57.6,62.3,101.36,81.9
+K. Caldwell-Pope - W. Carter Jr. - C. Anthony - P. Banchero - T. da Silva,ORL,5,40,88.0,117.3,-29.3,60.7,2.43,14.8,27.3,88.6,51.1,0.1,39.2,41.8,99.06,31.6
+R. Westbrook - D. Jordan - J. Murray - J. Strawther - P. Watson,DEN,8,40,110.1,109.3,0.8,60.5,1.92,18.3,33.3,84.6,58.0,0.1,53.8,57.3,105.40,52.7
+R. Westbrook - N. Jokić - J. Murray - M. Porter Jr. - P. Watson,DEN,11,40,129.4,85.0,44.4,74.4,7.25,22.8,31.7,74.5,54.5,0.0,59.9,62.9,99.55,72.6
+A. Gordon - N. Jokić - J. Murray - J. Strawther - P. Watson,DEN,8,39,107.0,98.9,8.1,69.4,2.50,20.5,32.6,70.0,52.7,0.1,51.9,55.0,108.94,54.1
+B. Lopez - K. Middleton - B. Portis - R. Rollins - A. Jackson Jr.,MIL,3,39,123.5,103.6,20.0,63.4,2.00,22.0,21.2,73.8,50.7,0.2,66.7,67.6,103.78,59.8
+C. Capela - T. Young - V. Krejčí - D. Daniels - Z. Risacher,ATL,5,39,116.0,111.0,5.1,72.2,2.00,21.5,36.8,75.0,56.4,0.2,54.7,58.3,101.17,52.3
+C. White - J. Smith - A. Dosunmu - D. Terry - M. Buzelis,CHI,9,39,113.1,103.6,9.5,71.0,1.57,18.8,31.6,73.2,53.2,0.2,52.9,59.8,104.59,57.5
+D. Mitchell - J. Allen - M. Strus - D. Garland - D. Wade,CLE,5,39,137.3,120.7,16.6,67.5,3.86,20.6,48.8,65.6,56.0,0.1,56.6,60.9,102.77,59.3
+K. Caldwell-Pope - G. Bitadze - T. Queen - J. Suggs - T. da Silva,ORL,2,39,101.2,82.1,19.1,39.4,0.81,12.4,28.9,75.7,52.0,0.2,51.4,54.9,100.35,63.2
+N. Jokić - J. Murray - J. Strawther - C. Braun - P. Watson,DEN,15,39,118.9,132.2,-13.3,69.2,4.50,20.3,34.0,82.4,53.6,0.1,52.3,56.6,110.44,47.1
+D. Šarić - J. Murray - M. Porter Jr. - C. Braun - P. Watson,DEN,3,38,89.0,77.5,11.5,51.7,1.36,14.3,18.2,76.7,47.1,0.1,44.5,47.7,103.13,59.6
+M. Plumlee - T. Jones - D. Booker - R. O'Neale - G. Allen,PHX,14,38,106.0,116.9,-10.9,76.7,2.56,20.0,18.2,64.7,38.5,0.1,52.1,55.8,105.94,44.8
+N. Batum - M. Bamba - T. Mann - K. Porter Jr. - J. Miller,LAC,5,38,106.3,92.7,13.6,60.6,1.67,17.7,33.3,71.4,51.4,0.1,52.8,55.1,102.01,56.6
+C. White - J. Smith - A. Dosunmu - D. Terry - J. Phillips,CHI,12,37,96.6,115.1,-18.5,63.3,1.90,15.6,28.3,75.0,47.2,0.1,44.5,48.1,113.07,36.6
+I. Hartenstein - S. Gilgeous-Alexander - I. Joe - J. Williams - C. Wallace,OKC,11,37,100.0,122.4,-22.4,60.7,1.13,15.7,37.8,51.2,44.2,0.2,45.1,48.5,96.15,32.8
+K. Towns - O. Anunoby - J. Hart - M. Bridges - M. McBride,NYK,13,37,117.1,112.7,4.4,72.7,3.00,22.6,22.2,75.0,52.4,0.1,66.1,68.8,101.40,55.1
+L. James - A. Davis - R. Hachimura - A. Reaves - D. Knecht,LAL,8,37,101.3,127.3,-26.0,74.2,2.30,21.7,14.3,65.0,41.3,0.1,56.3,57.7,100.04,42.4
+T. Rozier - B. Adebayo - T. Herro - N. Jović - J. Jaquez Jr.,MIA,12,37,116.7,100.0,16.7,67.6,2.30,20.2,37.1,78.6,59.7,0.1,58.8,61.4,102.37,57.1
+B. Lopez - D. Lillard - K. Middleton - B. Portis - G. Trent Jr.,MIL,7,36,109.0,127.3,-18.3,69.0,1.82,19.4,15.2,77.1,47.1,0.1,57.3,61.2,103.86,44.3
+F. VanVleet - D. Brooks - J. Green - J. Tate - A. Sengun,HOU,6,36,118.7,98.8,19.9,67.6,7.67,21.3,25.6,87.9,54.2,0.0,54.2,56.4,102.06,58.3
+J. Hart - M. Bridges - J. Brunson - M. McBride - J. Sims,NYK,11,36,115.7,132.4,-16.7,51.6,1.60,15.7,42.1,68.8,54.3,0.1,53.0,56.4,93.27,40.9
+K. Lowry - P. George - J. Embiid - C. Martin - J. McCain,PHI,3,36,96.1,105.4,-9.3,70.8,1.31,17.3,13.9,68.6,40.8,0.2,50.0,55.6,100.18,44.7
+K. Towns - C. Payne - O. Anunoby - J. Hart - M. McBride,NYK,12,36,109.0,98.8,10.2,63.6,3.00,18.8,28.3,73.8,50.0,0.1,48.1,51.3,104.56,54.5
+S. Curry - D. Green - A. Wiggins - B. Hield - J. Kuminga,GSW,9,36,107.4,103.6,3.8,67.6,1.77,20.9,17.6,69.6,47.5,0.2,59.6,60.8,109.89,54.5
+S. Curry - D. Green - B. Hield - G. Payton II - J. Kuminga,GSW,6,36,123.1,102.5,20.6,61.5,1.71,21.4,32.3,70.5,54.7,0.2,65.7,66.0,105.02,60.7
+T. Harris - M. Beasley - I. Stewart - M. Sasser - S. Fontecchio,DET,11,36,123.4,107.7,15.7,68.6,2.40,21.8,28.1,62.8,48.0,0.1,64.6,66.3,103.37,53.7
+C. McCollum - D. Murray - D. Theis - J. Green - T. Murphy III,NOP,7,35,122.2,127.9,-5.7,72.4,3.50,20.8,24.2,62.2,44.3,0.1,60.0,63.5,96.49,49.7
+C. Paul - K. Johnson - D. Vassell - V. Wembanyama - S. Castle,SAS,10,35,111.7,130.7,-19.0,70.0,3.00,19.8,28.6,68.8,47.8,0.1,53.9,58.7,105.39,46.4
+F. VanVleet - D. Brooks - J. Green - A. Sengun - T. Eason,HOU,15,35,112.0,125.0,-13.0,46.9,1.36,13.0,41.9,67.5,54.2,0.1,52.9,57.1,107.84,44.8
+G. Antetokounmpo - D. Wright - B. Portis - G. Trent Jr. - A. Green,MIL,7,35,133.8,133.8,0.0,60.0,3.00,21.2,16.0,67.7,44.6,0.1,72.0,73.0,101.47,51.4
+J. Grant - A. Simons - D. Ayton - D. Avdija - S. Henderson,POR,9,35,108.3,111.1,-2.8,64.3,4.50,18.2,25.0,62.5,43.8,0.1,51.6,53.9,99.45,49.5
+J. Jackson Jr. - D. Bane - S. Pippen Jr. - Z. Edey - J. Wells,MEM,7,35,108.9,114.1,-5.2,48.5,0.94,15.1,33.3,81.8,57.6,0.2,57.6,60.7,109.22,45.4
+K. Towns - J. Hart - M. Bridges - J. Brunson - M. McBride,NYK,15,35,119.0,102.5,16.5,53.1,2.43,16.7,19.4,73.5,45.7,0.1,54.5,59.9,109.69,54.5
+R. Westbrook - N. Jokić - J. Murray - J. Strawther - P. Watson,DEN,14,35,113.8,127.4,-13.6,58.3,1.24,19.4,28.0,65.7,50.0,0.2,66.7,69.7,112.14,43.1
+T. Rozier - B. Adebayo - D. Robinson - H. Highsmith - T. Herro,MIA,10,35,126.0,111.8,14.3,56.8,2.33,20.0,33.3,67.9,49.2,0.1,63.0,63.8,96.57,56.3
+T. Young - O. Okongwu - V. Krejčí - J. Johnson - D. Daniels,ATL,4,35,117.8,128.9,-11.1,72.7,1.60,22.2,36.7,68.2,50.0,0.2,59.5,62.6,103.39,40.0
+A. Davis - R. Hachimura - A. Reaves - M. Christie - D. Knecht,LAL,9,34,145.6,126.5,19.1,75.8,3.57,25.3,25.0,57.1,44.1,0.1,67.9,73.9,95.92,56.6
+D. Banton - J. Walker - K. Murray - R. Rupert - D. Reath,POR,6,34,104.0,125.7,-21.7,64.3,1.29,17.0,35.1,62.5,47.8,0.2,54.1,55.5,104.92,37.9
+E. Gordon - A. Drummond - K. Oubre Jr. - C. Martin - T. Maxey,PHI,6,34,97.2,116.9,-19.7,34.6,1.29,9.7,31.6,72.4,49.3,0.1,42.9,48.7,100.56,38.8
+I. Hartenstein - S. Gilgeous-Alexander - L. Dort - A. Wiggins - J. Williams,OKC,6,34,131.5,95.9,35.6,62.2,1.92,22.1,30.8,77.4,56.1,0.2,68.0,70.5,103.06,67.7
+J. Grant - A. Simons - S. Sharpe - T. Camara - D. Clingan,POR,5,34,87.3,86.3,1.0,60.0,1.50,15.8,21.4,78.4,48.1,0.1,44.8,45.7,100.66,50.5
+J. Holiday - J. Tatum - N. Queta - P. Pritchard - S. Hauser,BOS,9,34,95.7,120.3,-24.6,61.9,1.08,14.4,26.5,57.9,43.1,0.2,52.8,57.5,94.21,41.1
+J. Jackson Jr. - B. Clarke - S. Aldama - S. Pippen Jr. - J. Wells,MEM,5,34,125.4,100.0,25.4,55.9,2.71,18.3,36.8,76.9,57.1,0.1,51.4,56.8,101.64,62.9
+J. Jackson Jr. - J. Morant - S. Aldama - Z. Edey - J. Wells,MEM,4,34,118.9,93.3,25.6,54.1,1.67,19.0,34.4,87.0,65.4,0.2,58.7,61.0,105.59,64.0
+J. Nurkić - T. Jones - D. Booker - R. O'Neale - R. Dunn,PHX,4,34,89.6,111.8,-22.2,76.0,3.17,17.1,26.8,80.6,46.0,0.1,39.7,41.6,106.64,34.2
+K. Towns - C. Payne - M. Bridges - P. Achiuwa - M. McBride,NYK,11,34,111.0,111.0,0.0,51.6,1.33,16.0,41.4,63.6,53.2,0.2,57.6,61.7,103.80,51.0
+K. Towns - C. Payne - O. Anunoby - J. Hart - M. Bridges,NYK,4,34,119.4,118.3,1.1,68.8,3.14,22.0,18.8,67.6,43.9,0.1,60.0,62.5,100.34,53.7
+K. Towns - O. Anunoby - M. Bridges - J. Brunson - M. McBride,NYK,16,34,123.7,114.5,9.2,51.7,3.00,14.9,29.4,71.9,50.0,0.1,56.6,63.7,106.21,55.3
+S. Curry - D. Green - A. Wiggins - J. Kuminga - T. Jackson-Davis,GSW,3,34,111.5,114.1,-2.6,59.4,1.12,17.4,32.4,71.8,52.6,0.2,56.7,59.5,109.15,45.5
+T. Harris - M. Beasley - I. Stewart - C. Cunningham - J. Ivey,DET,13,34,80.8,101.3,-20.5,44.0,0.69,10.6,34.1,76.9,54.2,0.2,44.4,46.1,110.30,35.7
+T. McConnell - M. Turner - O. Toppin - T. Haliburton - B. Mathurin,IND,18,34,116.0,114.3,1.8,52.8,3.17,17.8,18.9,75.0,46.6,0.1,59.9,62.0,115.68,48.5
+C. LeVert - J. Allen - M. Strus - D. Garland - D. Wade,CLE,10,33,115.2,98.6,16.5,81.8,1.80,23.3,34.5,71.4,56.3,0.2,65.3,67.2,110.99,63.0
+C. Paul - K. Johnson - T. Jones - J. Champagnie - V. Wembanyama,SAS,7,33,136.8,104.5,32.2,84.4,3.86,27.0,20.0,82.1,52.8,0.1,70.5,73.8,98.58,65.5
+J. Allen - D. Garland - T. Jerome - D. Wade - I. Okoro,CLE,12,33,112.2,115.1,-2.9,54.8,1.31,17.0,31.0,70.0,50.8,0.2,59.5,63.8,107.73,51.9
+J. Poeltl - C. Boucher - O. Agbaji - D. Mitchell - G. Dick,TOR,11,33,112.3,109.6,2.7,82.8,2.18,22.9,27.6,65.8,49.3,0.2,57.1,62.4,106.48,55.0
+J. Valančiūnas - J. Poole - C. Kispert - B. Coulibaly - B. Carrington,WAS,15,33,85.7,126.8,-41.0,65.2,1.15,16.3,21.9,69.0,44.3,0.2,46.3,50.2,102.33,31.7
+J. Valančiūnas - K. Kuzma - J. Poole - B. Coulibaly - K. George,WAS,4,33,76.8,133.3,-56.5,61.1,0.79,11.7,32.6,82.6,50.0,0.2,35.2,39.7,99.16,12.2
+K. Kuzma - C. Kispert - B. Coulibaly - A. Sarr - B. Carrington,WAS,10,33,93.2,122.9,-29.7,56.0,0.78,14.7,25.8,71.9,49.2,0.2,54.6,57.4,105.30,35.1
+K. Towns - C. Payne - O. Anunoby - J. Hart - J. Brunson,NYK,8,33,135.7,110.0,25.7,58.1,2.57,17.6,41.2,63.0,50.8,0.1,56.9,63.6,100.80,61.5
+L. James - A. Davis - D. Russell - R. Hachimura - D. Knecht,LAL,3,33,85.1,121.5,-36.5,69.6,1.14,18.0,20.0,69.7,46.0,0.2,48.1,51.3,95.81,36.7
+N. Vučević - Z. LaVine - L. Ball - C. White - P. Williams,CHI,7,33,131.0,101.3,29.7,75.0,3.00,24.0,17.9,70.0,48.5,0.1,66.7,69.8,107.03,64.8
+S. Adams - F. VanVleet - D. Brooks - J. Green - A. Thompson,HOU,11,33,105.9,115.9,-10.1,51.9,1.17,14.4,39.5,61.8,50.0,0.2,48.4,52.0,99.72,40.1
+V. Micić - C. Martin - J. Green - N. Richards - B. Miller,CHA,4,33,113.8,90.9,22.9,66.7,1.33,17.6,33.3,73.7,55.9,0.2,55.7,60.3,95.32,65.9
+A. Horford - J. Holiday - K. Porziņģis - J. Brown - J. Tatum,BOS,4,32,127.5,111.9,15.6,68.8,2.75,22.2,28.6,61.5,47.8,0.1,60.8,65.6,100.53,62.7
+C. Capela - B. Bogdanović - T. Young - D. Hunter - D. Daniels,ATL,14,32,116.7,97.2,19.4,66.7,2.44,20.2,26.5,65.6,45.5,0.1,65.9,67.1,111.84,58.8
+C. Paul - S. Mamukelashvili - J. Champagnie - B. Wesley - V. Wembanyama,SAS,5,32,118.5,81.8,36.6,75.9,2.44,22.9,29.0,81.8,56.3,0.1,58.5,60.7,99.02,68.5
+D. Jordan - A. Gordon - J. Murray - J. Strawther - P. Watson,DEN,6,32,106.1,130.2,-24.1,68.0,1.70,19.1,19.4,78.6,47.5,0.2,54.5,58.5,95.56,40.7
+J. Holiday - K. Porziņģis - J. Brown - J. Tatum - P. Pritchard,BOS,10,32,100.0,86.8,13.2,57.7,2.50,15.5,22.5,78.0,50.6,0.1,48.4,51.5,105.49,60.2
+J. Richardson - B. Adebayo - D. Robinson - N. Jović - J. Jaquez Jr.,MIA,3,32,116.2,97.0,19.2,65.5,1.90,20.4,26.9,76.9,51.9,0.1,63.6,66.5,100.24,58.4
+J. Tatum - L. Kornet - P. Pritchard - S. Hauser - J. Walsh,BOS,8,32,142.9,120.9,22.0,46.9,5.00,15.3,36.8,56.8,46.7,0.0,61.2,65.6,101.60,59.1
+K. Irving - K. Thompson - P. Washington - Q. Grimes - D. Lively II,DAL,4,32,135.3,97.0,38.3,55.9,4.75,19.8,25.7,83.8,55.6,0.1,61.4,63.7,101.30,67.9
+L. Markkanen - C. Sexton - W. Kessler - T. Hendricks - K. George,UTA,3,32,124.6,141.9,-17.3,60.0,1.50,17.8,52.9,62.9,58.0,0.2,54.8,57.5,96.00,47.7
+M. Brogdon - J. Champagnie - B. Coulibaly - A. Sarr - C. Carrington,WAS,6,32,111.6,109.3,2.3,71.4,2.50,21.3,15.2,66.7,42.0,0.1,58.8,61.4,107.23,46.2
+P. George - J. Embiid - K. Oubre Jr. - T. Maxey - K. Martin,PHI,2,32,125.8,96.7,29.1,63.0,3.40,19.5,25.0,75.0,48.3,0.1,58.0,61.9,92.54,65.4
+P. George - K. Oubre Jr. - G. Yabusele - T. Maxey - K. Martin,PHI,3,32,123.8,108.1,15.7,66.7,6.00,20.5,24.1,76.0,48.1,0.0,58.5,62.7,95.04,60.2
+S. Curry - M. Bridges - C. Martin - L. Ball - N. Richards,CHA,5,32,100.0,104.3,-4.3,50.0,0.76,13.5,38.2,84.8,61.2,0.2,50.0,54.0,104.69,44.0
+T. McConnell - M. Turner - P. Siakam - T. Haliburton - B. Mathurin,IND,13,32,116.9,126.9,-10.0,58.6,1.70,18.1,20.7,64.5,43.3,0.1,62.0,66.1,103.82,48.7
+T. McConnell - P. Siakam - O. Toppin - B. Mathurin - J. Walker,IND,9,32,104.8,104.4,0.4,55.6,2.50,17.9,24.1,63.0,42.9,0.1,52.7,55.9,98.85,48.4
+T. Rozier - B. Adebayo - D. Robinson - D. Smith - J. Jaquez Jr.,MIA,6,32,105.8,137.5,-31.7,67.9,2.11,19.8,31.3,70.0,46.2,0.1,54.2,56.8,99.19,35.8
+A. Coffey - B. Hyland - K. Jones - K. Brown - J. Miller,LAC,5,31,101.5,104.5,-3.0,56.5,1.44,14.6,29.4,77.8,50.8,0.1,47.3,53.1,102.19,47.9
+B. Bogdanović - T. Young - D. Hunter - O. Okongwu - J. Johnson,ATL,10,31,103.8,115.7,-11.9,61.5,2.00,15.5,25.0,67.6,46.6,0.1,48.3,55.3,112.96,50.9
+B. Ingram - J. Green - J. Alvarado - J. Hawkins - Y. Missi,NOP,7,31,95.6,123.1,-27.5,48.0,1.20,13.6,24.2,76.9,47.5,0.1,51.8,53.3,103.80,38.0
+C. McCollum - B. Ingram - D. Theis - Z. Williamson - H. Jones,NOP,3,31,127.9,114.8,13.1,56.7,1.89,18.7,48.3,64.9,57.6,0.1,58.6,60.4,94.96,60.4
+D. Murray - B. Boston - H. Jones - T. Murphy III - Y. Missi,NOP,7,31,82.4,110.8,-28.4,71.4,1.36,16.1,29.4,71.4,48.4,0.2,41.8,47.1,104.37,36.2
+G. Williams - L. Ball - J. Green - M. Diabate - B. Miller,CHA,6,31,126.6,119.7,6.9,64.5,1.43,21.5,34.6,82.6,57.1,0.2,65.8,67.9,101.03,52.3
+J. Brown - J. Tatum - D. White - L. Kornet - P. Pritchard,BOS,12,31,108.1,125.0,-16.9,54.5,3.00,14.6,24.2,61.5,40.7,0.1,50.0,54.5,95.40,41.0
+J. Grant - A. Simons - D. Avdija - T. Camara - D. Clingan,POR,3,31,125.8,77.6,48.1,77.8,1.75,22.6,24.0,70.7,53.0,0.2,68.0,72.2,103.80,82.2
+J. Holiday - K. Porziņģis - J. Brown - D. White - P. Pritchard,BOS,8,31,123.2,94.4,28.8,72.4,4.20,21.9,18.8,70.3,46.4,0.1,58.5,61.9,108.73,65.4
+K. Lowry - P. George - A. Drummond - K. Oubre Jr. - C. Martin,PHI,4,31,83.1,101.5,-18.5,81.0,1.89,19.3,16.2,80.8,42.9,0.1,44.5,45.8,100.75,37.6
+L. Nance Jr. - T. Young - D. Hunter - G. Mathews - J. Johnson,ATL,3,31,130.1,91.8,38.4,75.0,2.63,21.6,12.0,73.8,50.7,0.1,68.0,73.6,111.77,76.0
+M. Conley - R. Gobert - D. DiVincenzo - N. Reid - J. McDaniels,MIN,16,31,88.7,132.3,-43.6,77.3,2.43,18.3,35.9,59.1,44.3,0.1,40.5,43.5,98.27,26.0
+M. Plumlee - T. Jones - D. Booker - G. Allen - R. Dunn,PHX,11,31,110.0,108.8,1.2,75.0,3.00,20.8,29.4,60.5,45.8,0.1,52.5,57.3,105.35,53.4
+S. Gilgeous-Alexander - L. Dort - J. Williams - J. Williams - C. Wallace,OKC,7,31,100.0,110.6,-10.6,65.4,1.70,18.7,22.9,73.3,46.2,0.2,52.5,53.1,103.64,40.6
+T. McConnell - P. Siakam - T. Bryant - J. Walker - B. Sheppard,IND,9,31,120.6,112.9,7.7,67.7,2.33,22.8,32.0,72.4,53.7,0.1,60.7,63.4,95.34,53.8
+A. Davis - R. Hachimura - G. Vincent - M. Christie - D. Knecht,LAL,9,30,77.8,111.9,-34.1,63.2,1.71,14.8,21.9,73.5,48.5,0.1,42.0,45.0,98.37,34.2
+B. Simmons - N. Claxton - Z. Williams - K. Johnson - N. Clowney,BKN,3,30,123.8,117.2,6.6,65.6,3.50,23.1,26.9,83.3,54.0,0.1,62.9,63.4,100.65,50.4
+C. Martin - G. Williams - L. Ball - M. Diabate - B. Miller,CHA,6,30,122.6,83.9,38.7,68.0,2.83,18.7,39.4,79.4,59.7,0.1,55.3,59.7,100.35,71.2
+D. Schröder - D. Finney-Smith - N. Claxton - C. Johnson - K. Johnson,BKN,3,30,112.3,125.4,-13.1,69.2,1.38,20.2,21.4,73.1,46.3,0.2,60.2,63.0,105.71,43.0
+K. Oubre Jr. - G. Yabusele - T. Maxey - K. Martin - J. McCain,PHI,6,30,112.1,114.3,-2.2,59.3,1.45,18.6,41.4,60.9,50.0,0.2,56.4,56.4,92.64,45.3
+L. Kennard - J. Jackson Jr. - D. Bane - Z. Edey - J. Wells,MEM,6,30,147.6,114.1,33.6,75.0,3.86,28.4,29.4,76.7,59.6,0.1,77.4,79.8,102.96,64.6
+M. Conley - J. Randle - D. DiVincenzo - N. Alexander-Walker - N. Reid,MIN,10,30,93.0,121.3,-28.3,52.9,0.64,11.5,36.4,62.1,48.4,0.2,44.0,48.7,94.55,27.0
+M. Conley - R. Gobert - D. DiVincenzo - A. Edwards - J. McDaniels,MIN,10,30,123.2,93.0,30.2,40.7,1.83,13.9,40.0,69.2,53.6,0.1,57.0,58.7,89.50,63.5
+N. Batum - J. Harden - N. Powell - K. Dunn - I. Zubac,LAC,8,30,111.6,84.6,27.0,58.6,1.70,19.5,4.0,79.3,44.4,0.1,64.8,65.9,108.49,67.1
+N. Batum - N. Powell - I. Zubac - A. Coffey - K. Porter Jr.,LAC,8,30,118.0,104.8,13.3,57.1,1.60,18.6,31.0,78.4,57.6,0.2,59.3,59.8,100.48,56.3
+R. Westbrook - N. Jokić - M. Porter Jr. - J. Strawther - P. Watson,DEN,18,30,114.3,111.0,3.3,90.0,2.45,27.0,13.6,72.4,47.1,0.2,63.5,67.2,114.38,52.8
+S. Curry - K. Looney - B. Hield - G. Payton II - J. Kuminga,GSW,11,30,120.6,104.5,16.1,67.7,5.25,21.0,28.9,54.8,40.6,0.1,56.9,57.3,109.09,56.0
+T. Gibson - L. Ball - J. Green - B. Miller - T. Salaün,CHA,4,30,89.7,115.3,-25.6,61.9,1.00,14.9,43.2,76.7,58.2,0.2,43.0,44.2,92.93,36.9
+T. Harris - M. Beasley - I. Stewart - C. Cunningham - S. Fontecchio,DET,19,30,107.1,104.1,3.0,60.7,1.31,18.9,13.0,84.6,51.0,0.2,64.0,66.8,115.23,47.5
+A. Burks - T. Herro - N. Jović - J. Jaquez Jr. - K. Ware,MIA,5,29,122.0,109.7,12.4,70.4,1.90,21.6,35.7,60.0,47.2,0.2,60.2,60.7,98.94,50.5
+A. Horford - J. Brown - J. Tatum - D. White - P. Pritchard,BOS,7,29,133.8,104.6,29.2,65.7,4.60,23.5,33.3,77.4,55.7,0.1,64.6,65.2,106.29,58.7
+A. Horford - J. Brown - J. Tatum - D. White - S. Hauser,BOS,2,29,127.1,120.7,6.4,53.8,14.00,17.9,15.2,69.0,40.3,0.0,53.4,58.3,97.50,47.3
+A. Simons - D. Avdija - S. Henderson - K. Murray - D. Clingan,POR,7,29,113.6,107.8,5.8,71.0,2.44,22.2,38.7,78.8,59.4,0.1,57.6,58.3,106.61,57.2
+C. Joseph - C. Anthony - C. Houstan - J. Howard - T. da Silva,ORL,9,29,104.5,100.0,4.5,56.5,1.00,13.8,40.5,75.8,57.1,0.2,48.3,53.0,108.26,48.1
+C. LeVert - J. Allen - D. Garland - T. Jerome - D. Wade,CLE,17,29,133.8,97.1,36.8,76.5,5.20,25.5,27.6,74.2,51.7,0.1,65.8,68.3,113.53,65.5
+C. Paul - H. Barnes - K. Johnson - J. Sochan - V. Wembanyama,SAS,7,29,116.4,91.9,24.5,77.8,2.10,22.1,42.4,72.5,58.9,0.2,52.6,56.5,101.15,65.7
+D. DeRozan - D. Sabonis - M. Monk - K. Huerter - K. Murray,SAC,13,29,109.5,95.2,14.3,61.5,2.29,18.4,25.0,75.0,50.0,0.1,54.5,57.2,105.21,55.8
+J. Hart - M. Bridges - J. Brunson - P. Achiuwa - M. McBride,NYK,11,29,88.7,104.8,-16.1,69.6,3.20,19.3,18.5,75.0,47.3,0.1,53.0,53.1,102.50,47.2
+K. Durant - T. Jones - D. Booker - N. Richards - R. Dunn,PHX,4,29,120.7,115.5,5.2,55.6,1.36,17.9,45.8,56.4,52.4,0.2,57.8,61.7,95.56,58.2
+K. Kuzma - J. Poole - B. Coulibaly - A. Sarr - K. George,WAS,4,29,87.7,124.6,-36.9,72.7,3.20,19.0,8.6,56.3,31.3,0.1,46.4,48.2,106.30,36.7
+K. Looney - B. Hield - J. Kuminga - M. Moody - B. Podziemski,GSW,5,29,98.4,90.5,8.0,47.8,2.20,12.5,32.5,75.0,52.6,0.1,45.0,47.6,104.21,53.5
+L. James - A. Davis - D. Russell - A. Reaves - D. Knecht,LAL,9,29,122.7,124.1,-1.4,66.7,3.33,20.6,40.7,68.6,56.5,0.1,62.5,62.9,101.21,59.4
+M. Conley - R. Gobert - J. Randle - N. Alexander-Walker - A. Edwards,MIN,12,29,106.5,66.1,40.3,68.2,1.67,17.4,31.0,71.9,52.5,0.1,52.9,58.2,102.69,79.8
+N. Batum - J. Harden - N. Powell - I. Zubac - A. Coffey,LAC,11,29,96.5,131.7,-35.2,84.2,2.00,19.3,30.3,46.4,37.7,0.1,45.0,49.7,98.04,34.3
+O. Anunoby - J. Hart - J. Brunson - P. Achiuwa - M. McBride,NYK,8,29,126.7,128.6,-1.9,46.7,1.75,15.6,55.2,85.0,67.3,0.1,60.5,61.4,97.23,49.3
+A. Simons - D. Ayton - S. Henderson - S. Sharpe - T. Camara,POR,5,28,101.6,158.3,-56.7,62.5,1.67,18.8,16.0,68.8,36.6,0.1,57.1,59.5,102.31,31.2
+B. Ingram - J. Green - J. Robinson-Earl - B. Boston Jr. - Y. Missi,NOP,5,28,122.4,98.2,24.2,68.0,1.70,20.0,38.5,78.6,59.3,0.2,62.2,63.8,100.09,60.5
+B. Lopez - D. Lillard - K. Middleton - G. Antetokounmpo - G. Trent Jr.,MIL,7,28,112.1,89.1,23.1,60.9,1.56,16.7,15.4,81.4,56.5,0.1,57.4,64.3,110.17,70.6
+C. LeVert - G. Niang - J. Allen - M. Strus - D. Garland,CLE,10,28,95.3,127.7,-32.4,73.9,1.70,19.3,21.9,64.3,41.7,0.2,52.9,55.5,112.17,36.3
+C. LeVert - J. Allen - D. Garland - D. Wade - S. Merrill,CLE,9,28,119.7,110.3,9.3,70.8,1.89,19.1,37.9,72.7,56.5,0.1,55.9,60.6,102.55,58.4
+D. Brooks - J. Green - A. Sengun - T. Eason - A. Thompson,HOU,9,28,140.0,103.1,36.9,52.9,1.64,19.8,40.0,61.8,53.7,0.2,75.0,77.1,112.49,66.2
+D. Lillard - K. Middleton - G. Antetokounmpo - B. Portis - A. Green,MIL,10,28,110.9,93.4,17.5,48.0,1.71,14.3,27.6,71.4,51.6,0.1,55.9,59.4,107.07,60.0
+K. Caldwell-Pope - W. Carter Jr. - F. Wagner - P. Banchero - A. Black,ORL,5,28,74.6,115.3,-40.7,64.3,0.75,12.5,16.7,70.4,42.1,0.2,39.3,46.1,99.78,26.0
+K. Durant - B. Beal - J. Nurkić - T. Jones - R. Dunn,PHX,4,28,117.9,100.0,17.9,84.0,3.00,25.0,26.9,72.0,49.0,0.1,62.5,63.0,96.97,59.5
+K. Lowry - K. Oubre Jr. - G. Yabusele - C. Martin - T. Maxey,PHI,6,28,115.5,103.3,12.2,78.3,6.00,22.0,17.6,70.4,41.0,0.1,54.7,56.6,100.40,52.0
+K. Olynyk - C. Boucher - B. Brown - S. Barnes - J. Shead,TOR,8,28,106.6,111.3,-4.7,70.8,1.55,19.3,40.7,65.5,53.6,0.2,52.0,57.3,103.89,49.8
+L. James - A. Davis - R. Hachimura - G. Vincent - D. Knecht,LAL,4,28,133.3,110.0,23.3,68.8,5.50,25.9,25.0,74.1,51.0,0.1,66.1,65.8,101.67,55.4
+L. Markkanen - C. Sexton - W. Kessler - C. Williams - I. Collier,UTA,5,28,112.5,130.3,-17.8,67.9,2.11,20.7,28.1,69.2,46.6,0.1,55.3,57.8,110.69,40.1
+N. Batum - J. Harden - A. Coffey - T. Mann - K. Porter Jr.,LAC,8,28,90.5,118.5,-28.0,31.6,0.86,7.9,18.4,69.0,40.3,0.1,41.8,46.6,108.94,28.8
+N. Vučević - Z. LaVine - C. White - A. Dosunmu - M. Buzelis,CHI,9,28,122.0,121.7,0.4,54.2,1.30,16.5,29.2,55.2,43.4,0.2,62.8,67.7,102.93,45.3
+S. Gilgeous-Alexander - L. Dort - A. Wiggins - C. Holmgren - J. Williams,OKC,5,28,106.3,103.2,3.2,56.5,2.17,15.7,21.2,61.1,42.0,0.1,50.0,55.0,106.42,56.0
+A. Gordon - N. Jokić - J. Murray - J. Strawther - C. Braun,DEN,6,27,119.0,85.7,33.3,70.8,1.70,18.9,34.5,78.1,57.4,0.2,51.9,59.8,110.97,65.3
+C. Capela - T. Young - G. Mathews - D. Daniels - Z. Risacher,ATL,3,27,100.0,117.2,-17.2,68.2,1.50,18.1,29.0,83.9,56.5,0.2,52.0,53.4,105.17,41.2
+D. Bane - S. Aldama - S. Pippen Jr. - J. Huff - J. LaRavia,MEM,6,27,138.3,106.6,31.8,83.3,2.78,27.2,30.4,68.8,52.7,0.1,71.2,71.9,107.96,64.7
+F. VanVleet - D. Brooks - J. Green - T. Eason - A. Thompson,HOU,13,27,98.4,76.8,21.5,47.4,1.13,11.0,36.4,67.5,53.4,0.1,43.8,50.5,114.05,77.9
+J. Holiday - J. Brown - J. Tatum - D. White - N. Queta,BOS,6,27,105.1,103.3,1.8,63.2,1.71,15.8,17.9,81.5,49.1,0.1,50.0,56.6,108.65,49.8
+J. Poole - C. Kispert - B. Coulibaly - A. Sarr - B. Carrington,WAS,12,27,113.0,105.4,7.6,81.8,4.50,23.1,23.1,58.3,40.0,0.1,59.8,59.5,97.54,52.8
+J. Randle - D. DiVincenzo - N. Alexander-Walker - N. Reid - J. McDaniels,MIN,13,27,96.4,94.3,2.0,58.8,1.43,13.5,30.0,73.1,50.0,0.1,43.5,50.0,97.55,49.4
+K. Irving - K. Thompson - P. Washington - D. Gafford - N. Marshall,DAL,8,27,129.8,110.5,19.3,61.5,1.60,18.8,50.0,67.9,59.6,0.2,63.3,65.5,101.50,58.6
+K. Irving - K. Thompson - P. Washington - D. Gafford - Q. Grimes,DAL,9,27,108.2,136.7,-28.5,52.0,1.86,15.5,28.6,55.6,42.3,0.1,49.1,52.1,109.37,36.3
+K. Thompson - S. Dinwiddie - P. Washington - Q. Grimes - D. Lively II,DAL,7,27,101.7,126.3,-24.6,76.2,1.78,19.8,26.9,84.6,55.8,0.2,53.2,57.9,102.67,41.6
+L. Markkanen - C. Sexton - W. Kessler - I. Collier - K. Filipowski,UTA,3,27,114.3,104.2,10.1,65.0,2.60,16.5,48.6,64.3,55.6,0.1,41.7,46.9,85.91,56.9
+R. Westbrook - D. Šarić - J. Murray - M. Porter Jr. - C. Braun,DEN,5,27,124.1,131.6,-7.5,76.0,2.71,21.8,43.8,69.2,55.2,0.1,57.3,58.1,100.09,41.6
+R. Westbrook - N. Jokić - J. Murray - C. Braun - P. Watson,DEN,13,27,130.6,117.5,13.2,50.0,3.75,16.9,41.4,68.2,52.9,0.1,60.7,63.4,110.00,50.5
+T. Thompson - G. Niang - D. Mitchell - T. Jerome - S. Merrill,CLE,5,27,120.8,100.0,20.8,63.6,1.75,17.5,41.9,66.7,54.7,0.2,52.9,56.9,93.85,58.7
+T. Young - D. Hunter - O. Okongwu - V. Krejčí - D. Daniels,ATL,7,27,103.2,90.9,12.3,58.3,2.33,16.7,21.9,94.1,46.9,0.1,49.1,53.2,115.63,53.7
+A. Burks - T. Rozier - B. Adebayo - D. Robinson - N. Jović,MIA,3,26,100.0,66.0,34.0,75.0,2.14,20.0,24.1,77.4,51.7,0.1,51.1,51.6,99.14,72.8
+A. Horford - J. Brown - J. Tatum - D. White - N. Queta,BOS,4,26,115.7,126.9,-11.2,57.1,2.00,16.9,29.6,74.1,51.9,0.1,54.2,56.8,95.15,42.8
+B. Lopez - D. Wright - T. Prince - G. Trent Jr. - A. Green,MIL,4,26,124.5,88.7,35.8,86.4,3.17,24.7,20.8,73.9,46.8,0.1,60.9,64.9,97.10,66.1
+C. Bassey - S. Mamukelashvili - M. Branham - B. Wesley - S. Cissoko,SAS,7,26,87.7,98.2,-10.5,81.0,1.89,21.3,20.0,78.1,50.0,0.2,51.1,48.6,103.57,44.8
+C. Boucher - D. Mitchell - S. Barnes - J. Mogbo - J. Battle,TOR,7,26,94.9,108.9,-14.0,81.8,2.57,20.5,30.6,72.4,49.2,0.1,47.3,48.5,106.63,45.0
+C. Capela - T. Young - D. Hunter - G. Mathews - D. Daniels,ATL,7,26,108.5,93.3,15.1,87.5,3.50,24.4,21.4,65.6,45.0,0.1,56.0,57.0,110.68,64.3
+C. LeVert - D. Mitchell - J. Allen - D. Garland - D. Wade,CLE,8,26,119.0,113.8,5.2,61.5,4.00,19.3,29.0,63.0,44.8,0.1,56.1,58.3,109.12,49.3
+D. Ayton - S. Henderson - S. Sharpe - K. Murray - T. Camara,POR,7,26,120.0,113.8,6.2,73.3,3.14,24.2,32.1,83.3,55.8,0.1,56.1,58.6,107.21,57.8
+D. Jordan - J. Murray - J. Strawther - C. Braun - P. Watson,DEN,9,26,111.5,121.8,-10.3,47.8,2.20,16.4,17.4,63.6,40.0,0.1,56.5,59.1,98.40,40.4
+J. Collins - S. Mykhailiuk - C. Sexton - W. Kessler - K. George,UTA,2,26,140.7,91.2,49.4,59.4,3.17,21.8,37.5,82.9,64.4,0.1,65.2,68.2,106.80,75.3
+J. Grant - A. Simons - D. Avdija - S. Sharpe - T. Camara,POR,7,26,123.5,111.3,12.2,41.2,0.78,11.3,21.1,63.0,45.7,0.2,61.8,70.7,97.87,49.5
+J. Grant - A. Simons - D. Ayton - D. Avdija - S. Sharpe,POR,4,26,122.2,140.0,-17.8,56.5,2.17,17.8,27.3,66.7,47.8,0.1,59.1,64.1,102.33,43.7
+J. Holiday - J. Brown - N. Queta - P. Pritchard - S. Hauser,BOS,6,26,90.9,98.1,-7.2,42.1,2.00,11.4,21.9,70.4,44.1,0.1,45.0,46.3,100.38,47.5
+J. Isaac - M. Wagner - J. Suggs - A. Black - J. Howard,ORL,4,26,86.8,103.6,-16.8,70.6,0.63,16.4,42.1,65.5,56.3,0.4,57.1,59.7,101.22,44.5
+J. Valančiūnas - M. Brogdon - J. Poole - B. Coulibaly - A. Sarr,WAS,2,26,103.6,129.1,-25.5,66.7,2.00,17.9,31.0,68.2,47.1,0.1,46.0,51.1,100.25,37.8
+K. Durant - B. Beal - M. Plumlee - T. Jones - R. Dunn,PHX,6,26,94.5,113.8,-19.2,78.9,1.50,20.8,9.1,61.1,41.4,0.2,56.1,59.6,103.77,43.2
+K. Durant - J. Nurkić - T. Jones - D. Booker - R. Dunn,PHX,3,26,134.5,120.0,14.5,58.6,1.89,23.6,0.0,73.3,51.2,0.2,81.0,81.3,101.73,54.3
+K. Towns - C. Payne - L. Shamet - P. Achiuwa - M. McBride,NYK,8,26,105.1,124.1,-19.0,54.5,1.50,14.5,38.7,42.9,40.4,0.1,51.0,54.5,104.54,46.2
+L. James - D. Russell - G. Vincent - C. Koloko - D. Knecht,LAL,7,26,107.9,98.4,9.5,65.4,1.55,20.0,20.7,73.3,47.5,0.2,61.8,61.9,116.58,49.8
+L. James - D. Russell - R. Hachimura - J. Hayes - D. Knecht,LAL,5,26,143.4,86.5,56.9,60.0,2.25,22.2,50.0,77.8,66.0,0.2,70.0,71.6,96.31,80.8
+M. Bagley III - J. Butler - A. Gill - J. Davis - P. Baldwin Jr.,WAS,7,26,123.2,89.7,33.6,54.5,1.71,14.8,44.8,78.6,61.4,0.1,51.0,56.8,104.63,64.8
+P. George - K. Oubre Jr. - G. Yabusele - T. Maxey - J. Edwards,PHI,4,26,137.0,122.6,14.4,66.7,2.25,22.0,41.7,54.5,47.8,0.1,62.7,66.8,97.16,53.1
+R. Gobert - N. Alexander-Walker - N. Reid - A. Edwards - R. Dillingham,MIN,8,26,125.5,92.6,32.9,59.3,2.29,20.3,34.8,65.6,52.7,0.1,64.0,65.5,100.48,63.5
+S. Curry - D. Green - A. Wiggins - B. Hield - G. Payton II,GSW,12,26,101.8,64.0,37.8,80.0,2.00,21.1,20.8,72.4,49.1,0.1,56.0,59.8,98.68,86.3
+T. Harris - M. Beasley - C. Cunningham - J. Duren - S. Fontecchio,DET,9,26,126.6,85.0,41.6,64.5,2.00,22.2,26.1,75.0,51.1,0.2,68.6,70.3,113.98,69.8
+T. McConnell - P. Siakam - O. Toppin - T. Haliburton - J. Walker,IND,9,26,121.9,104.8,17.0,80.0,6.00,25.8,19.2,78.3,46.9,0.1,63.4,65.5,114.42,59.9
